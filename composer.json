@@ -1,0 +1,19 @@
+{
+    "name": "visiteur/poo_projet",
+    "autoload": {
+        "psr-4": {
+            "App\\Core\\": "core/",
+            "App\\Model\\": "models/",
+            "App\\Controller\\": "controllers/",
+            "App\\Exeption\\": "exeptions/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Votre Nom",
+            "email": "aliounealdembaseck@gmail.com"
+        }
+    ],
+    "require": {}
+}
